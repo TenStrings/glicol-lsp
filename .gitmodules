@@ -1,0 +1,3 @@
+[submodule "glicol"]
+	path = glicol
+	url = https://github.com/chaosprint/glicol.git
